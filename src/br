@@ -1,0 +1,13 @@
+{/* <div className='col-items-Services'>
+            <div className='items-Services'>
+        <p className='for'>For patients</p>
+        <h2 className='find'>Find a doctor, book a visit and solve any health-related doubt</h2>
+        <select name="Country" className="button">
+            <option value=""> CHOOSE COUNTRY</option>
+            <option value="CHOOSE COUNTRY">CHOOSE COUNTRY</option>
+            <option value="Brazil">Brazil</option>
+            <option value="Tunisia">Tunisia</option>
+        </select> <br/>
+        <img className='image-servive' src='https://www.docplanner.com/img/screen-marketplace@2x.png' />
+        </div>
+        </div> */}
